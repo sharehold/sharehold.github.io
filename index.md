@@ -1,5 +1,3 @@
-[sharehold.com](sharehold.com)
-
 ## User Notice
 
 The Sharehold mobile app is being discontinued.
